@@ -22,25 +22,11 @@ Here are some ideas to get you started:
 <div>
   <a href="https://instagram.com/hfreitas2" target="Instagram"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="Instagram"></a>
   <a href="https://www.linkedin.com/in/pedro-freitas-70b280102/" target="Linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="Linkedin"></a>
+  <a href="https://t.me/Henkef2" target="Telegram"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="Telegram"></a>
+  <a href="https://twitter.com/HenriqeFreitas" target="Twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="Twitter"></a>
+  <a href="https://github.com/Henkef2/henkef2" target="GitHub"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="GitHub"></a>
+  <a href="mailto:henkef2@gmail.com" target="Gmail"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="Gmail"></a>
 </div>
-  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hfreitas2)
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-freitas-70b280102/)
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Henkef2)
-
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/HenriqeFreitas)
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Henkef2/henkef2)
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:henkef2@gmail.com)
-
-
-
-
-
-
 
 
 
