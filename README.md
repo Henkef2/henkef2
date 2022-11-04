@@ -19,15 +19,23 @@ Here are some ideas to get you started:
 
 <div><a href="https://github.com/365rafael"><img align="center" alt="capa" width="100%" src="https://idocode.com.br/wp-content/uploads/2020/05/0-destaque-linguagens-de-programacao-2019.jpg.webp"/></div><br/>
 
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=Instagram&logoColor=fff)](https://instagram.com/hfreitas2)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hfreitas2)
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=LinkedIn&logoColor=fff)](https://www.linkedin.com/in/pedro-freitas-70b280102/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-freitas-70b280102/)
 
-[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=Telegram&logoColor=fff)](https://t.me/henriquefreitas)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/henriquefreitas)
 
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=Twitter&logoColor=fff)](https://twitter.com/HenriqeFreitas)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/HenriqeFreitas)
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=GitHub&logoColor=fff)](https://github.com/Henkef2/henkef2)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Henkef2/henkef2)
+
+
+
+
+
+
+
+
 
 
 
@@ -40,15 +48,18 @@ Here are some ideas to get you started:
 
 
 
+
+
+
 ## Tecnologias que estou desenvolvendo
-## Technologies i'm developing
 
 <div style="display: inline_block"><br/>
- <img align="center" alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&logoColor=fff"/>
- <img align="center" alt="javascript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=fff"/>
- <img align="center" alt="CSS" src="https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3&logoColor=fff"/>
- <img align="center" alt="android" src="https://img.shields.io/badge/-Android-3DDC84?logo=Android&logoColor=fff"/>
- <img align="center" alt="mysql" src="https://img.shields.io/badge/-MySQL-4479A1?logo=MySQL&logoColor=fff"/> 
+ <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+ <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+ <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+ <img align="center" alt="android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+ <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/> 
  <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 </div><br/>
+
 
