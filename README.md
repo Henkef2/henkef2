@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 
 <div>
   <a href="https://instagram.com/hfreitas2" target="Instagram"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="Instagram"></a>
+  <a href="https://www.linkedin.com/in/pedro-freitas-70b280102/" target="Linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="Linkedin"></a>
 </div>
   
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hfreitas2)
