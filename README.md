@@ -19,6 +19,9 @@ Here are some ideas to get you started:
 
 <div><a href="https://github.com/Henkef2/henkef2"><img align="center" alt="capa" width="100%" src="https://idocode.com.br/wp-content/uploads/2020/05/0-destaque-linguagens-de-programacao-2019.jpg.webp"/></div><br/>
 
+<div>
+  <a href="https://instagram.com/hfreitas2" target="Instagram"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="Instagram"></a>
+</div>
   
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hfreitas2)
 
