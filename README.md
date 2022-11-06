@@ -34,8 +34,8 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="https://github.com/Henkef2">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henkef2&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henkef2&show_icons=true&theme=radical"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=henkef2&show_icons=true&bg_color=00000000"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henkef2&layout=compact"/>
 </div>
 
 
